@@ -2,7 +2,7 @@
 
 int main(){
 
-   printf("GitHub‚Ì—ûK’†!!");
+   printf("Practice GitHub!");
 
    return 0;
 }
