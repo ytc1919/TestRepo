@@ -3,6 +3,9 @@
 int main(){
 
    printf("Practice GitHub!");
+   printf("This position is feature/ntaka_test?");
+   printf("Mergi to develop branch!");
+   printf("again mistake!!!");
 
    return 0;
 }
