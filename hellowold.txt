@@ -2,7 +2,7 @@
 
 int main(){
 
-   printf("HELLO WOLRD!!");
+   printf("GitHub‚Ì—ûK’†!!");
 
    return 0;
 }
