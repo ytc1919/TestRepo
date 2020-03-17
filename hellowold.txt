@@ -3,6 +3,7 @@
 int main(){
 
    printf("Practice GitHub!");
+   printf("This position is feature/ntaka_test?");
 
    return 0;
 }
